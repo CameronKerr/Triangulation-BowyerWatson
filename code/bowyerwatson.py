@@ -1,5 +1,5 @@
 # Cameron Kerr: May 11 2023 #
-# Generates triangulaiton using bowyer watson algorithm #
+# Generates triangulation using bowyer watson algorithm #
 
 import math
 import matplotlib.pyplot as plt
